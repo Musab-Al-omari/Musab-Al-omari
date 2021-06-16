@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Musab Al omari](https://github-readme-stats.vercel.app/api?username=Musab-Al-omari&count_private=true)
+
 ![Musab Al omari](https://github-readme-stats.vercel.app/api?username=Musab-Al-omari&hide=contribs,prs)
